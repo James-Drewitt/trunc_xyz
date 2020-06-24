@@ -1,3 +1,7 @@
+# AUTHOR: Dr James W E Drewitt
+# Copyright 2020, James Drewitt
+# james.drewitt@bristol.ac.uk; james.drewitt@gmail.com
+
 inp1 = raw_input('Input File? (*.xyz): ')
 frac = raw_input('Size of truncation (%): ')
 #
